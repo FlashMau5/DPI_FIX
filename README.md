@@ -4,7 +4,7 @@ Simple method to fix blurry programs on Windows with few clicks.
 <details><summary>Download</summary>
 <p>
 
-Just click on "Code▾" then "Download ZIP" or [Here](https://github.com/FlashMau5/DPI-Fix/archive/refs/heads/main.zip)  
+Just click on "Code▾" then "Download ZIP" or [Here](https://github.com/FlashMau5/DPI_FIX/archive/refs/heads/main.zip)  
   
 ![Download](https://user-images.githubusercontent.com/33010589/155316777-06a476df-77f3-4229-b74b-a3e590ae51b5.png)
 
